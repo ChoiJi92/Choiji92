@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-프론트엔드 개발자를 꿈꾸며 항해중입니다🔥
+사람들에게 좋은 영향력을 끼치고 싶은 프론트엔드 개발자 입니다🧑‍💻
 ## 🛠 Tech Stack 🛠
 
 Techs that I've used at least once

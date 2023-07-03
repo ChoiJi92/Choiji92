@@ -33,5 +33,3 @@ Techs that I've used at least once
 		 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 		
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiji92&show_icons=true&theme=gruvbox)
-### 현재 진행중인 프로젝트
-🍊[멘도롱 제주](https://mendorong-jeju.co.kr/)

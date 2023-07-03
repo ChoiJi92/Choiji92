@@ -22,7 +22,8 @@ Techs that I've used at least once
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-	<img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react"> 
+	<img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react">
+	<img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react-native">
 	 <img src="https://img.shields.io/badge/React--Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=FFFFFF">
 	  <img src="https://img.shields.io/badge/recoil-2C5BB4?style=for-the-badge&logo=recoil&logoColor=white">
      <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
